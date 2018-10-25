@@ -26,6 +26,12 @@ Primero, necesitas tener una buena cantidad de paciencia para as en Robótica.
 
 ¡Juntos, estos recursos son lo suficientemente buenos como para comenzar tu viaje con la robótica!
 
+## Las 3 leyes de la robótica segun Asimov
+
+1)Un robot no hára daño a un ser humano o, por inacción, permitir que un ser humano sufra daño.
+2)Un robot debe obedecer las órdenes dadas por los seres humanos, excepto órdees si estás entrasen en conflicto con la 1.era Ley.
+3)Un robot debe proteger su propia existencia en la medida en que esta protección no entre en conflicto con la 1.era o la 2.da LEy
+
 ### Más información:
 
 [Robots (Wikipedia.org)](https://en.wikipedia.org/wiki/Robot)
